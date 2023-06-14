@@ -30,7 +30,7 @@ data
         └── pos
 ```
 
-### Manualy process the data
+### Manualy process the multimodal data
 Alternatively, you can process the data by your self. 
 
 #### Image Data & Landmark Data
